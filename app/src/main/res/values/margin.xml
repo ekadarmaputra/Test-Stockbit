@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="marginS">4dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="marginL">12dp</dimen>
+    <dimen name="marginXL">18dp</dimen>
+    <dimen name="marginXXL">24dp</dimen>
+
+</resources>
